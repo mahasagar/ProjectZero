@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Udacity Apps Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="strSpotifyStreamer">SPOTIFY STREAMER</string>
+    <string name="strScoresApp">SCORES APP</string>
+    <string name="strLibraryApp">LIBRARY APP</string>
+    <string name="strBuildItBigger">BUILD IT BIGGER</string>
+    <string name="strXYZReader">XYZ READER</string>
+    <string name="strCapstone">CAPSTONE: MY OWN APP</string>
+    <string name="strMainTitle">My Nanodegree Apps!</string>
+</resources>
