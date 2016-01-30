@@ -43,26 +43,32 @@
             <Button
                 android:id="@+id/btnSpotifyStreamer"
                 android:text="@string/strSpotifyStreamer"
+                android:onClick="onClick"
                 style="@style/MyNanoAppButtonStyle"/>
             <Button
                 android:id="@+id/btnScoresApp"
                 android:text="@string/strScoresApp"
+                android:onClick="onClick"
                 style="@style/MyNanoAppButtonStyle"/>
             <Button
                 android:id="@+id/btnLibraryApp"
                 android:text="@string/strLibraryApp"
+                android:onClick="onClick"
                 style="@style/MyNanoAppButtonStyle"/>
             <Button
                 android:id="@+id/btnBuildItBigger"
                 android:text="@string/strBuildItBigger"
+                android:onClick="onClick"
                 style="@style/MyNanoAppButtonStyle"/>
             <Button
                 android:id="@+id/btnXYZReader"
                 android:text="@string/strXYZReader"
+                android:onClick="onClick"
                 style="@style/MyNanoAppButtonStyle"/>
             <Button
                 android:id="@+id/btnCapstone"
                 android:text="@string/strCapstone"
+                android:onClick="onClick"
                 style="@style/MyOwnAppButtonStyle"/>
 
         </LinearLayout>
